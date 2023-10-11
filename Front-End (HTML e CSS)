@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="primeirapaginastyle.css">
+<style>
+  
+    
+    p{
+        background-size: 20%;
+    }
+</style>
 
+
+</head>
+<body>
+    
+<main style="background-image: linear-gradient(to bottom, #B9B2EB, #DBA4EB , #eac696 , #b9ebcc , #EBA9DE)">
+        <img src="Eu1.jpg" alt="">
+    <h2>Quem sou eu</h2>
+        <p>Sejam bem-vindes ao meu site! Eu me chamo Julia de Castro, sou estudante de Letras Português- Alemão pela Universidade Federal do Rio de Janeiro, e também sou Desenvolvedora WEB. Aqui vocês irão conhecer mais sobre mim, no que diz respeito a história de vida, habilidades, conhecimentos, etc.</p>
+
+        <h3>Mais sobre mim...</h3>
+        <p>Nascida no Rio de Janeiro, sempre fui uma criança curiosa e apreciadora de todos os conhecimentos. Com esta natureza curiosa, usei um computador pela primeira vez por volta dos 4 anos de idade, com o programa Paint. A minha relação com o computador se tornou cada vez mais presente e com o tempo, tornou-se rotina. Mas, somente em 2020, durante a pandemia, eu entrei em contato de fato com programação. A primeira linguagem de programação com qual tive contato, foi Python, e posteriormente, aprendi alguns conceitos básicos de JavaScript, com HTML e CSS no Front-End.</p>
+
+</main>
+
+        <br>
+<div class="linhadotempo">
+    <h3>Outubro/2023</h3>
+     <img src="RIW3.jpg" alt="Rio Innovation Week";>
+        <p style="background-color: rgba(61, 61, 61, 0.158);border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.337);">Fui no Rio Innovation Week e tirei foto com um robô maneiro!</p>
+    
+<br><br><br><br>
+
+    <h3>Setembro/2023</h3>
+        <p style="background-color: rgba(61, 61, 61, 0.158); border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.337);">Iniciei meu primeiro curso presencial de Desenvolvimento Web com Python no Senac, através do programa Mulheres do Rio: Mulheres Tech.</p>
+
+<br><br><br><br>
+
+    <h3>2020</h3>
+    <img src="2020.jpg" alt="">
+        <p style="background-color: rgba(61, 61, 61, 0.158);border-radius: 10px; box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.337);">Tive meu primeiro contato com as linguagens Python e JavaScript e com a programação de modo geral.</p>
+</div>
+
+</body>
+</html>
