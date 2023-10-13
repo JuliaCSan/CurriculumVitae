@@ -21,7 +21,7 @@
     <h2>Quem sou eu</h2>
         <p style="padding-bottom: 5%;";>Sejam bem-vindes ao meu site! Eu me chamo Julia de Castro, sou estudante de Letras Português- Alemão pela Universidade Federal do Rio de Janeiro, e também sou Desenvolvedora WEB. Aqui vocês irão conhecer mais sobre mim, no que diz respeito a história de vida, habilidades, conhecimentos, etc.</p>
 
-/* add style="padding-bottom: 5%;" to <p></p> */
+<!-- add style="padding-bottom: 5%;" to <p></p> -->
 
         <h3>Mais sobre mim...</h3>
         <p>Nascida no Rio de Janeiro, sempre fui uma criança curiosa e apreciadora de todos os conhecimentos. Com esta natureza curiosa, usei um computador pela primeira vez por volta dos 4 anos de idade, com o programa Paint. A minha relação com o computador se tornou cada vez mais presente e com o tempo, tornou-se rotina. Mas, somente em 2020, durante a pandemia, eu entrei em contato de fato com programação. A primeira linguagem de programação com qual tive contato, foi Python, e posteriormente, aprendi alguns conceitos básicos de JavaScript, com HTML e CSS no Front-End.</p>
